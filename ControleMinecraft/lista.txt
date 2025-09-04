@@ -10,7 +10,7 @@ Laryssa Camilo Gosch - 9968798ef36bef7ab9fe47efb777f254 - 1
 Raquel Pinheiro - 690c0ca1d95dd5731d948c48d9f3ae8a - 1
 Danilo da Silva Doebber - baaaa98900585f2689f9c17a8b58d740 - 1
 Ruan Guilherme Rodrigues Barbosa - 3558137ec4d58b9b5ffc439c01f5380a - 1
-Ana Caroline Toniello - Hash bfc9b0bf7365128957416140a756eb5c - 1
+Ana Caroline Toniello - bfc9b0bf7365128957416140a756eb5c - 1
 Letícia Portela - dd42f170a60748804f532ab00397e9af - 1
 Gustavo Viera Alves - 4c96f8324e3ba54a99e78249b95daa30 - 1
 Heloiza Camargo - 99af41c071c3c4e67ba89a06ea4f4d29 - 1
@@ -27,3 +27,4 @@ Jabes Fernando Fossile - 947f4bda746a007eb81c0b8fe9e03f01 - 1
 Lucas Henrique Alves - f23a9326bbcad19504491dbb1cefe6a6 - 1
 Lucas gabriel marcos - 03c2f8833b4b3daa3d8bb2b9e30ee5f0 - 1
 Thiago Pereira Detzel - 7a3b453695353e4ce9055f059ac8cf2d - 1
+Uriel Langer Pagano - c460abded6fa9c1c99ff7a9f657dba10 - 1
