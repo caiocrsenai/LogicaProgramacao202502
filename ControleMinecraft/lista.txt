@@ -29,3 +29,4 @@ Lucas gabriel marcos - 03c2f8833b4b3daa3d8bb2b9e30ee5f0 - 1
 Thiago Pereira Detzel - 7a3b453695353e4ce9055f059ac8cf2d - 1
 Uriel Langer Pagano - c460abded6fa9c1c99ff7a9f657dba10 - 1
 David Lucas Gonçalves da Silva - 42505afd6a65f759ff42912a52dc76e3 - 1
+Kaue Seidel - d83e46eb6e6b55a6f7d44963efe52783 - 1
